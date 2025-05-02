@@ -20,6 +20,10 @@ EMRIL is a robust classification framework designed to handle **concept drift** 
 4. Results are stored in a local SQLite database for feedback and performance tracking.
 5. Ensemble is updated adaptively to handle evolving data.
 
+6.![_- visual selection](https://github.com/user-attachments/assets/2cd6ee30-6178-4ec9-a62a-76553a6cbafd)
+ 
+
+
 ## 🛠️ Technologies Used
 
 - Python
