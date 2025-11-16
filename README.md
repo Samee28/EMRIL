@@ -9,7 +9,6 @@ EMRIL is a robust classification framework designed to handle **concept drift** 
 - 🔁 **Concept Drift Handling** using sliding window techniques
 - ⚖️ **Imbalanced Data Support** with ensemble methods
 - 🧠 **Base Learners**: Hoeffding Tree, Naive Bayes, k-NN, Random Forest
-- 🗃️ **SQLite-based Memory** to persist model performance across time
 - 📊 **Evaluation Metrics**: Accuracy, F1-score, G-Mean, Processing Time
 
 ## 🧪 How It Works
